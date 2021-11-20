@@ -1,0 +1,53 @@
+body{
+
+    background-image: linear-gradient( to top right,#085078,#85d8ce);
+
+}
+
+p,label{
+
+    font-family: fantasy;
+
+    font-size: 22px;
+
+    color: whitesmoke;
+
+}
+
+.heading{
+
+    font-family: fantasy;
+
+    font-size: 30px;
+
+    width: 80%;
+
+}
+
+.NameOfObjects,#ResultObjectName,#ResultObjectAccuracy{
+
+    font-family: fantasy;
+
+    font-size: 22px;
+
+    color: springgreen;
+
+}
+
+#Camera{
+
+    width: 350px;
+
+    height: 300px;
+
+}
+
+#result{
+
+    border: 3.5px dashed grey;
+
+    width: 350px;
+
+    height: 300px;
+
+}
